@@ -1,0 +1,33 @@
+* {
+    height: auto;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 10px;
+    background-color: rgb(0, 0, 0) !important;
+    box-shadow: 0 4px 8px rgba(246, 246, 246, 0.2) !important;
+}
+
+.btn-danger {
+    padding: 5px 10px;
+    font-size: 14px;
+   
+}
+
+h1, h3 {
+    text-transform: uppercase;
+}
+
+.AllTask .alert {
+    margin-top: 10px;
+}
+

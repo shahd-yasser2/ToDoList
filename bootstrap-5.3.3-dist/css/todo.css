@@ -1,0 +1,13 @@
+* {
+    height: auto;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: rgb(51, 50, 50);
+}
+.none{
+    display: none;
+}
